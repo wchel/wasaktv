@@ -3,11 +3,11 @@
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/100.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/251301978.jpg" group-title="Ungrouped", KAPAMILYA CHANNEL HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0b57013.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256048447.jpg" group-title="Ungrouped", TV5
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256048447.png" group-title="Ungrouped", TV5
 http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256606286.jpg" group-title="Ungrouped", TV5 (DTT FEED)
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256606286.png" group-title="Ungrouped", TV5 (DTT FEED)
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/102.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256606287.jpg" group-title="Ungrouped", GMA
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256606287.png" group-title="Ungrouped", GMA
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/99.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/247977894.jpg" group-title="Ungrouped", CNN PH HD
 https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
@@ -15,9 +15,11 @@ https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w293039820_b300000_sleng.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/254132874.jpg" group-title="Ungrouped", DEPED (BEAM DTT)
 https://d3cbe0gidjd4k2.cloudfront.net/channel_7/smil:channel_7.smil/chunklist_w16683970_b1000000_sleng.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256620113.jpg" group-title="Ungrouped", ANC ASIA
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256609394.png" group-title="Ungrouped", ONE PH
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/114.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256620113.png" group-title="Ungrouped", ANC
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/103.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256068888.jpg" group-title="Ungrouped", ANC
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256068888.png" group-title="Ungrouped", ANC USA
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/bf85cce9b7906bf.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248255377.jpg" group-title="Ungrouped", CNN HD
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -29,6 +31,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248334838.jpg" group-title="Ungrouped", NTV NEWS24 (JAPANESE)
 https://www.news24.jp/livestream/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/251688987.jpg" group-title="Ungrouped", DISNEY JUNIOR HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248203630.jpg" group-title="Ungrouped", ALJAZEERA HD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8?checkedby:iptvcat.com
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248211087.jpg" group-title="Ungrouped", TRT WORLD HD
@@ -41,8 +45,6 @@ http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/251678587.jpg" group-title="Ungrouped", DISNEY XD HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/251688987.jpg" group-title="Ungrouped", DISNEY JUNIOR HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/251700143.jpg" group-title="Ungrouped", BABYFIRST
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256609395.jpg" group-title="Ungrouped", MYX
@@ -73,9 +75,9 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256609412.jpg" group-title="Ungrouped", CINEMO
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/127.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256128227.jpg" group-title="Ungrouped", CINEMAONE USA
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256128227.png" group-title="Ungrouped", CINEMAONE USA
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fe8a278cd5312f3.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256128228.jpg" group-title="Ungrouped", CINEMAONE ASIA
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256128228.png" group-title="Ungrouped", CINEMAONE ASIA
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/8b50f0987797f7d.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256058887.jpg" group-title="Ungrouped", SONY MOVIE CHANNEL
 http://mytv.fun:8080/99xctzjwoo/94tfra516t/677222
@@ -97,15 +99,13 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248810916.jpg" group-title="Ungrouped", Celestial Movies 天映频道
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256609394.jpg" group-title="Ungrouped", ONE SPORTS+
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/114.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256048706.jpg" group-title="Ungrouped", ONE SPORTS
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256048706.png" group-title="Ungrouped", ONE SPORTS
 http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256609303.jpg" group-title="Ungrouped", NBA TV PHILIPPINES
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256609303.png" group-title="Ungrouped", NBA TV PHILIPPINES
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/120.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256179924.jpg" group-title="Ungrouped", NBA TV THAILAND
 https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248843987.jpg" group-title="Ungrouped", REDBULL TV HD
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/254132927.png" group-title="Ungrouped", REDBULL TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/252044698.jpg" group-title="Ungrouped", FITE
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
@@ -149,5 +149,5 @@ http://203.162.235.41:16912
 https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248059611.jpg" group-title="Ungrouped", TOKYO MX 2 RELAY FEED
 https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/254583615.jpg" group-title="Ungrouped", WOWOW PRIME
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/254583615.jpg" group-title="Ungrouped", WOWOW CINEMA
 http://203.162.235.41:16916
