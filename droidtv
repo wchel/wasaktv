@@ -9,14 +9,12 @@ http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/102.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256606287.jpg" group-title="Ungrouped", GMA
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/99.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256606288.jpg" group-title="Ungrouped", GTV
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/107.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/247977894.jpg" group-title="Ungrouped", CNN PH HD
 https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248004620.jpg" group-title="Ungrouped", BEAM TV
-https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248004010.jpg" group-title="Ungrouped", INQUIRER 990
-https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/254132871.jpg" group-title="Ungrouped", PILIPINAS HD (BEAM DTT)
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w293039820_b300000_sleng.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/254132874.jpg" group-title="Ungrouped", DEPED (BEAM DTT)
+https://d3cbe0gidjd4k2.cloudfront.net/channel_7/smil:channel_7.smil/chunklist_w16683970_b1000000_sleng.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256620113.jpg" group-title="Ungrouped", ANC ASIA
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/103.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256068888.jpg" group-title="Ungrouped", ANC
@@ -37,6 +35,8 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8?checkedby:iptvcat.com
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248004467.jpg" group-title="Ungrouped", BLOOMBERG TV ASIA HD
 https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/259785726.png" group-title="Ungrouped", ANIMAX
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/251678396.jpg" group-title="Ungrouped", DISNEY CHANNEL HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/251678587.jpg" group-title="Ungrouped", DISNEY XD HD
@@ -121,22 +121,30 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/247977926.jpg" group-title="Ungrouped", NHK WORLD JAPAN HD
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/252010849.jpg" group-title="Ungrouped", NHK EDUCATIONAL TV
-http://redlabmcdn.s.llnwi.net/jp01/ryowa1/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/259795830.jpg" group-title="Ungrouped", NHK BS PREMIUM
+http://203.162.235.41:16910
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/252010845.jpg" group-title="Ungrouped", NHK GENERAL TV
-http://redlabmcdn.s.llnwi.net/jp01/ryowa2/index.m3u8
+http://203.162.235.41:16903
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248055093.jpg" group-title="Ungrouped", TV TOKYO
-http://redlabmcdn.s.llnwi.net/jp01/ryowa6/index.m3u8
+http://203.162.235.41:16908
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248055094.jpg" group-title="Ungrouped", TV ASAHI
-http://redlabmcdn.s.llnwi.net/jp01/ryowa4/index.m3u8
+http://203.162.235.41:16906
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/259795864.jpg" group-title="Ungrouped", BS ASAHI
+http://203.162.235.41:16914
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248771486.jpg" group-title="Ungrouped", TBS
-http://redlabmcdn.s.llnwi.net/jp01/ryowa5/index.m3u8
+http://203.162.235.41:16907
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/259795924.jpg" group-title="Ungrouped", BS-TBS
+http://203.162.235.41:16913
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248056760.jpg" group-title="Ungrouped", TOKYO MX 1
 http://redlabmcdn.s.llnwi.net/jp01/ryowa8/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248056761.jpg" group-title="Ungrouped", FUJI TV
-http://redlabmcdn.s.llnwi.net/jp01/ryowa7/index.m3u8
+http://203.162.235.41:16904
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/259795929.jpg" group-title="Ungrouped", BS FUJI
+http://203.162.235.41:16911
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248056763.jpg" group-title="Ungrouped", NIPPON TV
-http://redlabmcdn.s.llnwi.net/jp01/ryowa3/index.m3u8
+http://203.162.235.41:16905
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/259797636.jpg" group-title="Ungrouped", NIPPON TELEVISION
+http://203.162.235.41:16912
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248059610.jpg" group-title="Ungrouped", TOKYO MX 1 RELAY FEED
 https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248059611.jpg" group-title="Ungrouped", TOKYO MX 2 RELAY FEED
