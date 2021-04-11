@@ -152,4 +152,4 @@ https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/254583615.jpg" group-title="Ungrouped", WOWOW PRIME
 http://203.162.235.41:16916
 #EXTINF: -1, TEST
-https://vsd112.mycdn.me/dash/stream_1135098465015/stream.manifest/sig/8XIMYpUPu2s/expires/1618237091873/srcIp/130.105.148.13/clientType/0/srcAg/CHROME/mid/2733731028727/stream-high.jidx?_rnd=106561478
+http://mov3.co/tokyomx/
