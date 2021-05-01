@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://yamcode.com/raw/epg-62187"
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/251301978.jpg" group-title="Ungrouped", KAPAMILYA CHANNEL HD
+#EXTINF: -1 tvg-id="Kapamilya Channel" tvg-name="Kapamilya Channel (option 1)" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18113602/kapamilya-channel-logo.png" group-title="(no group)",Kapamilya Channel
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0b57013.m3u8
 #EXTINF: -1 tvg-logo="https://logos.fandom.com/wiki/People%27s_Television_Network/Other?file=PTV4-LOGO-2017-VERSION-04-v3.jpg" group-title="Ungrouped", PTV
 https://stream-03.sg1.dailymotion.com/sec(vb0ikD3rmZA2RvEN2UsfwOmroW41RqGm0Ji7lmGKzmM)/dm/3/x5cr6b9/d/live-2.m3u8
