@@ -77,6 +77,8 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248810916.jpg" group-title="FILSAT", Celestial Movies 天映频道
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gHCOcuF.png" tvg-url="" group-title="FILSAT", CinemaWorld
+http://210.210.155.35/uq2663/h/h04/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256048706.png" group-title="FILSAT", ONE SPORTS
 http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/254132927.png" group-title="FILSAT", REDBULL TV HD
