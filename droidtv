@@ -3,8 +3,6 @@
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0b57013.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/f3967dd0-982d-11eb-a74d-bf98f0b67ea5/1483516/266973154.png" group-title="FILSAT", PTV
 https://stream-03.sg1.dailymotion.com/sec(vb0ikD3rmZA2RvEN2UsfwETUBNjzVKPe8zqeRn44ARA)/dm/3/x5cr6b9/d/live-2.m3u8
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256048447.png" group-title="FILSAT", TV5
-http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/247977894.jpg" group-title="FILSAT", CNN PH HD
 https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/254132871.jpg" group-title="FILSAT", PILIPINAS HD (BEAM DTT)
@@ -29,13 +27,13 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8?checkedby:iptvcat.com
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248004467.jpg" group-title="FILSAT", BLOOMBERG TV ASIA HD
 https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="FILSAT",Disney Channel
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="FILSAT", Disney Channel
 http://web24.live:8080/6657847853/UecFX5R79a/1019
-#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/83-835216_disney-junior-png-junior-disney-ai-logo-transparent.png" group-title="FILSAT",Disney Junior
+#EXTINF: -1 tvg-logo="https://www.pngitem.com/pimgs/m/83-835216_disney-junior-png-junior-disney-ai-logo-transparent.png" group-title="FILSAT", Disney Junior
 http://web24.live:8080/6657847853/UecFX5R79a/1016
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="FILSAT",Disney XD
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="FILSAT", Disney XD
 http://web24.live:8080/6657847853/UecFX5R79a/1014
-#EXTINF:-1 tvg-logo="http://assets.stickpng.com/images/589a41e25aa6293a4aac48ab.png" group-title="FILSAT",Cartoon Network
+#EXTINF: -1 tvg-logo="http://assets.stickpng.com/images/589a41e25aa6293a4aac48ab.png" group-title="FILSAT", Cartoon Network
 http://web24.live:8080/6657847853/UecFX5R79a/1084
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/251700143.jpg" group-title="FILSAT", BABYFIRST
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
@@ -77,16 +75,20 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248810916.jpg" group-title="FILSAT", Celestial Movies 天映频道
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gHCOcuF.png" tvg-url="" group-title="FILSAT", CinemaWorld
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gHCOcuF.png" group-title="FILSAT", CinemaWorld
 http://210.210.155.35/uq2663/h/h04/index.m3u8
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256048706.png" group-title="FILSAT", ONE SPORTS
-http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/b5716170-aa41-11eb-9c7d-5b04e74aae33/1590436/283902607.png" group-title="FILSAT", NBA TV USA
+http://web24.live:8080/6657847853/UecFX5R79a/823
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/b5716170-aa41-11eb-9c7d-5b04e74aae33/1590436/283904440.png" group-title="FILSAT", NBA TV CANADA
+http://web24.live:8080/6657847853/UecFX5R79a/41840
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/254132927.png" group-title="FILSAT", REDBULL TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/252044698.jpg" group-title="FILSAT", FITE
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248776324.jpg" group-title="FILSAT", ARIRANG HD
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/b5716170-aa41-11eb-9c7d-5b04e74aae33/1590436/283898061.png" group-title="FILSAT", KBS WORLD
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b1200000.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/250722533.jpg" group-title="FILSAT", TVN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/250486714.jpg" group-title="FILSAT", HALLYPOP
