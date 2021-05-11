@@ -1,10 +1,10 @@
 #EXTM3U 
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/251301978.jpg" group-title="FILSAT", KAPAMILYA CHANNEL HD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0b57013.m3u8
-#EXTINF: -1 tvg-logo="" group-title="FILSAT", PTV
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/11a7c3c0-b21a-11eb-a0c9-27dfaf04c501/1623505/291154121.png" group-title="FILSAT", PTV
 https://stream-03.sg1.dailymotion.com/sec(vb0ikD3rmZA2RvEN2UsfwETUBNjzVKPe8zqeRn44ARA)/dm/3/x5cr6b9/d/live-2.m3u8
-EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/f3967dd0-982d-11eb-a74d-bf98f0b67ea5/1483516/266973154.png" group-title="FILSAT", GMA
-http://starshare.live:8080/live/abcd1234/abcd1234/19228.ts
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/11a7c3c0-b21a-11eb-a0c9-27dfaf04c501/1623505/291154190.png" group-title="FILSAT", GMA
+http://starshare.live:8080/live/abcd1234/abcd1234/19228.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/247977894.jpg" group-title="FILSAT", CNN PH HD
 https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/254132871.jpg" group-title="FILSAT", PILIPINAS HD
@@ -55,9 +55,9 @@ https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3
 http://203.154.243.89:11205/
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248810030.jpg" group-title="FILSAT", NATGEO WILD HD
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF: -1  tvg-logo="https://download.logo.wine/logo/Crime_%2B_Investigation_(Australian_TV_channel)/Crime_%2B_Investigation_(Australian_TV_channel)-Logo.wine.png" group-title="FILSAT", CRIME INVESTIGATION
+#EXTINF: -1 tvg-logo="https://download.logo.wine/logo/Crime_%2B_Investigation_(Australian_TV_channel)/Crime_%2B_Investigation_(Australian_TV_channel)-Logo.wine.png" group-title="FILSAT", CRIME INVESTIGATION
 http://203.154.243.31:15001
-#EXTINF: -1  tvg-logo="http://astig.ph/wp-content/uploads/2015/03/4-CineMo-logo.jpg" group-title="FILSAT", CINEMO
+#EXTINF: -1 tvg-logo="http://astig.ph/wp-content/uploads/2015/03/4-CineMo-logo.jpg" group-title="FILSAT", CINEMO
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/3254f236ad3e872.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256128227.png" group-title="FILSAT", CINEMAONE USA
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fe8a278cd5312f3.m3u8
@@ -83,6 +83,8 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gHCOcuF.png" group-title="FILSAT", CinemaWorld
 http://210.210.155.35/uq2663/h/h04/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/11a7c3c0-b21a-11eb-a0c9-27dfaf04c501/1623505/291170684.png" group-title="FILSAT", ONE SPORTS
+http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/b5716170-aa41-11eb-9c7d-5b04e74aae33/1590436/283902607.png" group-title="FILSAT", NBA TV USA
 http://web24.live:8080/6657847853/UecFX5R79a/823
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/b5716170-aa41-11eb-9c7d-5b04e74aae33/1590436/283904440.png" group-title="FILSAT", NBA TV CANADA
