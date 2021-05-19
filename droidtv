@@ -35,14 +35,6 @@ https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
 https://redlabmcdn.s.llnwi.net/jp01/bs14/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2c6134f0-b21f-11eb-a683-3f59d4f1bd69/1623930/293938786.png" group-title="FILSAT", ANIPLUS
 http://210.210.155.35/dr9445/h/h02/01.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="FILSAT", DISNEY CHANNEL
-http://web24.live:8080/6657847853/UecFX5R79a/1019
-#EXTINF: -1 tvg-logo="https://www.pngitem.com/pimgs/m/83-835216_disney-junior-png-junior-disney-ai-logo-transparent.png" group-title="FILSAT", DISNEY JUNIOR
-http://web24.live:8080/6657847853/UecFX5R79a/1016
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="FILSAT", DISNEY XD
-http://web24.live:8080/6657847853/UecFX5R79a/1014
-#EXTINF: -1 tvg-logo="http://assets.stickpng.com/images/589a41e25aa6293a4aac48ab.png" group-title="FILSAT", CARTOON NETWORK
-http://web24.live:8080/6657847853/UecFX5R79a/1084
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/251700143.jpg" group-title="FILSAT", BABYFIRST
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/252010933.jpg" group-title="FILSAT", CHANNEL V HD
