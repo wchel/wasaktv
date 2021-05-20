@@ -133,5 +133,5 @@ https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
 https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/254583615.jpg" group-title="FILSAT", WOWOW PRIME
 http://203.162.235.41:16916
-#EXTINF: -1 tvg-logo="" group-title="FILSAT", TEST
+#EXTINF: -1 tvg-logo="" group-title="FILSAT", LIVE SPORTS
 http://nba.cdncrack.gq/live/1/chunks.m3u8
