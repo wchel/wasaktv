@@ -135,3 +135,5 @@ http://203.162.235.41:16916
 http://nba.cdncrack.gq/live/1/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/572dc530-b904-11eb-aa9c-c105ad6570bc/1653658/297786498.jpg" group-title="FILSAT", LIVE SPORT 2 (ALL SPORTS + PPV SPORTS EVENTS)
 http://nba.cdncrack.gq/live/2/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/572dc530-b904-11eb-aa9c-c105ad6570bc/1653658/297786498.jpg" group-title="FILSAT", LIVE SPORT 3 (ALL SPORTS + PPV SPORTS EVENTS)
+http://nba.cdncrack.gq/live/3/chunks.m3u8
