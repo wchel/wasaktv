@@ -188,7 +188,7 @@ http://203.162.235.41:16905
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/259797636.jpg" group-title="FILSAT", BS NIPPON
 http://203.162.235.41:16912
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/306859828.png" group-title="FILSAT", JAPANET CHANNEL DX
-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248059610.jpg" group-title="FILSAT", TOKYO MX 1 RELAY FEED
 https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248059611.jpg" group-title="FILSAT", TOKYO MX 2 RELAY FEED
