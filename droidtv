@@ -69,6 +69,8 @@ http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/116.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/306366194.png" group-title="FILSAT", ETC
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/130.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/307550183.png" group-title="FILSAT", AXN
+http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/121.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256122263.jpg" group-title="FILSAT", FOX SD
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/112.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256122263.jpg" group-title="FILSAT", FOX HD
@@ -105,6 +107,8 @@ http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/127.m3u8
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fe8a278cd5312f3.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256128228.png" group-title="FILSAT", CINEMAONE ASIA
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/8b50f0987797f7d.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256128227.png" group-title="FILSAT", CIINEMAONE (BACKUP)
+http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/109.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/254191045.jpg" group-title="FILSAT", CINEMAX SD
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/111.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/254191045.jpg" group-title="FILSAT", CINEMAX HD
@@ -141,10 +145,10 @@ http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/114.m3u8
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/120.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/306281017.png" group-title="FILSAT", PBA RUSH
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/122.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/306366613.jpg" group-title="FILSAT", FOX SPORTS
+http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/119.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/306366612.png" group-title="FILSAT", FOX SPORTS 2
 http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/117.m3u8
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/306366613.png" group-title="FILSAT", FOX SPORTS 3
-http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/119.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/254132927.png" group-title="FILSAT", REDBULL TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248776324.jpg" group-title="FILSAT", ARIRANG HD
