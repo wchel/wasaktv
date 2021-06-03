@@ -45,6 +45,8 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8|
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/c105bd20-c461-11eb-80fb-51f6d4ec9267/1699562/308671891.png" group-title="FILSAT", AXN HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248055046.jpg" group-title="FILSAT", WARNER TV HD
+http://203.154.243.89:11205/
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256122263.jpg" group-title="FILSAT", FOX HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256122265.jpg" group-title="FILSAT", FOX LIFE HD
@@ -55,8 +57,6 @@ https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8|User
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/252000376.jpg" group-title="FILSAT", TLC HD
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248055046.jpg" group-title="FILSAT", WARNER TV HD
-http://203.154.243.89:11205/
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248810030.jpg" group-title="FILSAT", NATGEO WILD HD
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://download.logo.wine/logo/Crime_%2B_Investigation_(Australian_TV_channel)/Crime_%2B_Investigation_(Australian_TV_channel)-Logo.wine.png" group-title="FILSAT", CRIME INVESTIGATION
