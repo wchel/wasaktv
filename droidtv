@@ -11,8 +11,6 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_7/smil:channel_7.smil/chunklist_w1
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w293039820_b300000_sleng.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/f3967dd0-982d-11eb-a74d-bf98f0b67ea5/1483516/262616873.png" group-title="FILSAT", TELERADYO
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/bf85cce9b7906bf.m3u8
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/306281002.jpg" group-title="FILSAT", DZRH NEWS TELEVISION
-http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/108.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/2c6134f0-b21f-11eb-a683-3f59d4f1bd69/1623930/293920085.jpg" group-title="FILSAT", GMA NEWS TV INTERNATIONAL
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/f9973976ebde68c.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2c6134f0-b21f-11eb-a683-3f59d4f1bd69/1623930/293920083.png" group-title="FILSAT", SUPER RADYO DZBB (AUDIO)
@@ -27,6 +25,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248334838.jpg" group-title="FILSAT", NTV NEWS24 (JAPANESE)
 https://www.news24.jp/livestream/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/c105bd20-c461-11eb-80fb-51f6d4ec9267/1699562/308675148.png" group-title="FILSAT", TVONE
+https://stream-01.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybEZxhEU94x6qzk4-AbrDxtk)/dm/3/x619221/s/live-3.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/306927836.png" group-title="FILSAT", RT NEWS
 https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248203630.jpg" group-title="FILSAT", ALJAZEERA HD
@@ -43,6 +43,8 @@ http://210.210.155.35/dr9445/h/h02/01.m3u8
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/252010933.jpg" group-title="FILSAT", CHANNEL V HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/c105bd20-c461-11eb-80fb-51f6d4ec9267/1699562/308671891.png" group-title="FILSAT", AXN HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256122263.jpg" group-title="FILSAT", FOX HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/256122265.jpg" group-title="FILSAT", FOX LIFE HD
@@ -93,6 +95,8 @@ http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 http://210.210.155.35/uq2663/h/h04/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/11a7c3c0-b21a-11eb-a0c9-27dfaf04c501/1623505/291170684.png" group-title="FILSAT", ONE SPORTS
 http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/c105bd20-c461-11eb-80fb-51f6d4ec9267/1699562/308673430.png" group-title="FILSAT", EDGE SPORT
+https://edgesports-plex.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/254132927.png" group-title="FILSAT", REDBULL TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248776324.jpg" group-title="FILSAT", ARIRANG HD
