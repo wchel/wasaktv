@@ -34,7 +34,7 @@ http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/306360947.png" group-title="FILSAT", ANC
 http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/103.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248255377.jpg" group-title="FILSAT", CNN SD
-http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/139.m3u8
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/140.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248255377.jpg" group-title="FILSAT", CNN HD
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/248211137.jpg" group-title="FILSAT", BBC WORLD NEWS
