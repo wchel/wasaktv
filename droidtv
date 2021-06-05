@@ -15,7 +15,9 @@ http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/107.m3u8
 https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/306281014.png" group-title="FILSAT", IBC
 http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/98.m3u8
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/254132874.jpg" group-title="FILSAT", DEPED (BEAM DTT)
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2b3091b0-c5ff-11eb-93a0-378afa978d98/1712935/310102828.jpg" group-title="FILSAT", JEEPNEY TV
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/106.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/87e42b30-9149-11eb-a190-a7881f1469ac/1431176/254132874.jpg" group-title="FILSAT", DEPED TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_7/smil:channel_7.smil/chunklist_w16683970_b1000000_sleng.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/306348972.png" group-title="FILSAT", KNOWLEDGE CHANNEL
 http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/135.m3u8
@@ -65,7 +67,7 @@ https://redlabmcdn.s.llnwi.net/jp01/bs14/tracks-v1a1/mono.m3u8
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/251700143.jpg" group-title="FILSAT", BABYFIRST
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/306281004.png" group-title="FILSAT", MYX
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2b3091b0-c5ff-11eb-93a0-378afa978d98/1712935/310085686.jpg" group-title="FILSAT", MYX
 http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/116.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/1f874340-8b95-11eb-bada-abdb752b4f66/1401105/252010933.jpg" group-title="FILSAT", CHANNEL V HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
