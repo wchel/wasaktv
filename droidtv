@@ -166,7 +166,7 @@ http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/120.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3091b0-c5ff-11eb-93a0-378afa978d98/1712935/310085734.jpg" group-title="FILSAT", FOX SPORTS
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3091b0-c5ff-11eb-93a0-378afa978d98/1712935/310085735.jpg" group-title="FILSAT", FOX SPORTS 2
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3091b0-c5ff-11eb-93a0-378afa978d98/1712935/312040611.jpg" group-title="FILSAT", FOX SPORTS 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/c105bd20-c461-11eb-80fb-51f6d4ec9267/1699562/308673430.png" group-title="FILSAT", EDGE SPORT
